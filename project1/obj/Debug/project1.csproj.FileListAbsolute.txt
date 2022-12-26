@@ -1,0 +1,6 @@
+C:\Users\KeRo\source\repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\KeRo\source\repos\project1\project1\bin\Debug\project1.exe
+C:\Users\KeRo\source\repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\KeRo\source\repos\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\KeRo\source\repos\project1\project1\obj\Debug\project1.exe
+C:\Users\KeRo\source\repos\project1\project1\obj\Debug\project1.pdb
